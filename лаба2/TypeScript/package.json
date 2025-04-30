@@ -1,0 +1,28 @@
+{
+    "compilerOptions": {
+        "target": "es2024",
+        "module": "commonjs",
+        "declaration": true,
+        "sourceMap": true,
+        "outDir": "dist",
+        "rootDir": "src",
+        "strict": true,
+        "noImplicitAny": false,
+        "strictNullChecks": true,
+        "noImplicitThis": true,
+        "alwaysStrict": true,
+        "noUnusedLocals": true,
+        "moduleResolution": "node",
+        "experimentalDecorators": true,
+        "emitDecoratorMetadata": true,
+        "skipLibCheck": true
+    },
+    "exclude": [
+        "node_modules",
+        "test",
+        "dist"
+    ],
+    "dependencies": {
+        "prompt-sync": "^4.2.0"
+    }
+}

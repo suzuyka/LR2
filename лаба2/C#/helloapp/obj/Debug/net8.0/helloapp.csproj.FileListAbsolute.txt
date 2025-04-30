@@ -1,0 +1,14 @@
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/bin/Debug/net8.0/helloapp
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/bin/Debug/net8.0/helloapp.deps.json
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/bin/Debug/net8.0/helloapp.runtimeconfig.json
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/bin/Debug/net8.0/helloapp.dll
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/bin/Debug/net8.0/helloapp.pdb
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/helloapp.GeneratedMSBuildEditorConfig.editorconfig
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/helloapp.AssemblyInfoInputs.cache
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/helloapp.AssemblyInfo.cs
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/helloapp.csproj.CoreCompileInputs.cache
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/helloapp.dll
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/refint/helloapp.dll
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/helloapp.pdb
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/helloapp.genruntimeconfig.cache
+/home/suzuyka/Documents/прога/лабы/лаба2/C#/helloapp/obj/Debug/net8.0/ref/helloapp.dll
